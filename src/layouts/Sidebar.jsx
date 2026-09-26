@@ -66,7 +66,7 @@ const Sidebar = () => {
               <span className="absolute bottom-0 right-0 w-2 h-2 rounded-full bg-white ring-2 ring-[#141414]"></span>
             </div>
             <div className="flex flex-col">
-              <span className="text-xs font-semibold text-[#F2F2F2]">Orni Bera</span>
+              <span className="text-xs font-semibold text-[#F2F2F2]">Orni Bera                  </span>
               <span className="text-[11px] text-[#AFAFAF] truncate max-w-[100px]">Dept. of CSE</span>
             </div>
           </div>

@@ -1,54 +1,77 @@
 # CarbonLens
 
-> **See your impact. Understand your footprint. Change what matters.**
+> A campus carbon intelligence platform for understanding, reducing, and tracking carbon impact.
 
-CarbonLens is a campus carbon intelligence platform designed to help students understand, track, and reduce their carbon footprint through data-driven insights and interactive tools.
+CarbonLens is a campus-focused carbon footprint platform designed to help students understand how everyday activities contribute to their carbon footprint and discover practical ways to reduce it.
 
-Instead of presenting carbon emissions as a single number, CarbonLens breaks down where emissions come from, highlights high-impact opportunities, and lets users explore how behavioral changes could affect their footprint.
+The platform combines personal carbon tracking, campus-level analytics, recommendations, challenges, leaderboards, and a scenario-based carbon simulator into one unified dashboard.
 
 ---
 
-## 🌍 What is CarbonLens?
+## Overview
 
-CarbonLens connects **personal carbon tracking** with **campus-wide sustainability intelligence**.
+CarbonLens is built around a simple idea:
 
-The platform is designed around three layers:
+**Make carbon impact visible, understandable, and actionable.**
 
-### 👤 Personal
+Instead of only showing a single carbon number, CarbonLens breaks the footprint down into meaningful activity categories and provides context around where emissions come from, how they compare with benchmarks, and what changes could make the biggest difference.
 
-Students can:
+### Core experience
 
-- Track everyday activities
-- Understand their carbon footprint
-- See which categories contribute most
-- Monitor footprint trends
-- Discover personalized reduction opportunities
+- Personal carbon footprint dashboard
+- Activity logging and tracking
+- Carbon breakdown by category
+- Carbon trajectory and historical trends
+- What-if carbon simulator
+- Personalized reduction recommendations
+- Sustainability challenges
+- Campus leaderboard
+- Campus-wide carbon analytics
+- Sustainability and carbon reports
 
-### 🏫 Campus
+---
 
-Campus administrators and sustainability teams can:
+## Product Vision
 
-- Monitor campus-wide emissions
-- Analyze emission categories
-- Track community participation
-- Compare departments
-- Identify high-impact sustainability opportunities
+CarbonLens is designed to connect three levels of carbon intelligence:
 
-### 🔮 Simulation
+### 1. Personal
 
-The Carbon Simulator allows users to explore:
+Students can understand their individual footprint and identify the activities that contribute most to it.
 
-> **"What if I changed this behavior?"**
+### 2. Community
+
+Students can participate in challenges and compare progress through campus-oriented leaderboards and benchmarks.
+
+### 3. Campus
+
+Administrators and sustainability teams can view aggregated carbon trends, participation, emission categories, and high-impact opportunities.
+
+---
+
+## Key Feature: What-If Carbon Simulator
+
+One of the central ideas behind CarbonLens is scenario-based decision making.
+
+Instead of only answering:
+
+> "How much carbon do I produce?"
+
+the platform aims to answer:
+
+> "What happens if I change this behavior?"
 
 For example:
 
 ```text
-Current behavior
-      ↓
-Transportation footprint
-      ↓
-Change several car trips
-      ↓
-Use public transport instead
-      ↓
-Estimated CO₂e reduction
+Current scenario
+↓
+Current transportation footprint
+
+Scenario
+↓
+Replace several car trips with public transport
+
+Result
+↓
+Estimated monthly CO₂e reduction
