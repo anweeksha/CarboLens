@@ -1,0 +1,9 @@
+export { default as OverviewPage } from './OverviewPage';
+export { default as ActivitiesPage } from './ActivitiesPage';
+export { default as CarbonPage } from './CarbonPage';
+export { default as SimulatorPage } from './SimulatorPage';
+export { default as RecommendationsPage } from './RecommendationsPage';
+export { default as ChallengesPage } from './ChallengesPage';
+export { default as LeaderboardPage } from './LeaderboardPage';
+export { default as CampusPage } from './CampusPage';
+export { default as ReportsPage } from './ReportsPage';
