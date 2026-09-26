@@ -27,7 +27,7 @@ const Sidebar = () => {
             <span className="font-headline-md text-headline-md font-semibold text-[#F2F2F2] tracking-tight">
               CarbonLens
             </span>
-            <span className="font-eyebrow-tag text-[10px] text-[#AFAFAF] uppercase tracking-wider">
+            <span className="text-[10px] text-[#AFAFAF] tracking-wider">
               See impact. Change trajectory.
             </span>
           </div>
